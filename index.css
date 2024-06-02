@@ -1,0 +1,20 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h3 {
+    color: rgb(184, 69, 24);
+}
+
+h3:hover {
+    text-decoration: underline;
+}
+
+th:hover {
+    text-decoration: underline;
+}
+
+td:hover {
+    color:navy;
+    font-weight: bold;
+}
